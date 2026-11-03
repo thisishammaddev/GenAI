@@ -1,0 +1,4 @@
+Coding improves problem-solving by breaking large tasks into smaller steps.
+Python is popular for scripting, automation, data science, and AI applications.
+JavaScript is essential for interactive web applications in the browser and on the server with Node.js.
+Good coding practice includes readable naming, modular functions, and regular testing.

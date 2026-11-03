@@ -1,0 +1,4 @@
+OpenAI is known for ChatGPT, GPT models, and multimodal AI systems.
+Anthropic develops Claude models with a strong focus on helpfulness, safety, and reliability.
+Google DeepMind works on frontier AI research, reinforcement learning, and multimodal systems.
+NVIDIA is critical to the AI ecosystem because its GPUs power training and inference workloads.

@@ -1,0 +1,4 @@
+AI companies rely on high-quality data, strong compute infrastructure, and careful model evaluation.
+Retrieval-augmented generation helps AI systems answer questions from external documents instead of only model memory.
+Embeddings convert text into vectors so related content can be retrieved by semantic similarity.
+ChromaDB is often used in simple RAG projects to store embeddings and search relevant chunks.

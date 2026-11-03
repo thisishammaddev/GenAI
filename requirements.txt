@@ -1,26 +1,22 @@
-# LangChain Core
-langchain
+langgraph==1.2.0
+langchain-openai==1.2.1
+langchain-groq==1.1.3
+python-dotenv==1.2.2
+pydantic==2.10.4
+langchain-google-genai==4.2.4
+langchain==1.3.1
+pandas==2.3.3
+litellm==1.96.2
+langchain-litellm==0.7.0
 langchain-core
-
-# OpenAI Integration
-langchain-openai
 openai
-
-# Anthropic Integration
 langchain-anthropic
-
-# Google Gemini (PaLM) Integration
-langchain-google-genai
 google-generativeai
-
-# Hugging Face Integration
 langchain-huggingface
+langchain-chroma
+chromadb
+sentence-transformers
 transformers
 huggingface-hub
-
-# Environment Variable Management
-python-dotenv
-
-# Machine Learning Utilities
 numpy
 scikit-learn

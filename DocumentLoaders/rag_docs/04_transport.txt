@@ -1,0 +1,4 @@
+Data structures such as arrays, linked lists, stacks, queues, trees, and graphs are core coding concepts.
+Algorithms for searching, sorting, recursion, and dynamic programming are important in technical interviews.
+Version control with Git helps teams track code changes and collaborate safely.
+Writing small reusable functions usually makes debugging easier.
